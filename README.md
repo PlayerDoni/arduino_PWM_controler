@@ -53,4 +53,4 @@ R=:
     }
 
 # 6. [Funcionamento do projeto](#funcionamento-do-projeto)
-R= O projeto visa controlar a velocidade de um motor DC com base nos botões pressionados, ajustando os valores de frequência. Ao pressionar os botões, a frequência do sinal PWM que controla o motor será alterada, modificando assim sua velocidade. Um osciloscópio é usado para medir e monitorar as mudanças na frequência do sinal. Dessa forma, podemos observar como as diferentes frequências afetam a velocidade do motor, permitindo um controle preciso e dinâmico de sua operação.
+R= O projeto visa controlar a velocidade de um motor DC com base no botão pressionado, ajustando os valores de frequência. Ao pressionar o botão, a frequência do sinal PWM que controla o motor será alterada, modificando assim sua velocidade. Um osciloscópio é usado para medir e monitorar as mudanças na frequência do sinal. Dessa forma, podemos observar como as diferentes frequências afetam a velocidade do motor, permitindo um controle preciso e dinâmico de sua operação.
